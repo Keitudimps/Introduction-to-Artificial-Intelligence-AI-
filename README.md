@@ -3,6 +3,14 @@ This Course is provided by IBM on Coursera
 **Instructor:** [Rav Ahuja](https://www.coursera.org/instructor/ravahuja)  
 This course provides a beginner-friendly overview of AI concepts, applications, and ethical considerations, and how it's used in everyday life.
 ____________________________________________________________________________________________________  
+# Fundamentals of AI  
+____________________________________________________________________________________________________  
+# Techniques of AI  
+____________________________________________________________________________________________________  
+# The impact of AI and generative AI on business transformation  
+____________________________________________________________________________________________________  
+# AI ethics and governance  
+____________________________________________________________________________________________________
 # Reference  
 [Introduction to Artificial Intelligence(AI)](https://www.coursera.org/programs/advanced-digital-skills-5a-cpt-july2025-fs5qr/learn/introduction-to-ai)
 ____________________________________________________________________________________________________  
