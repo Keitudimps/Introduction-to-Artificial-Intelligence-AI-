@@ -1,6 +1,6 @@
 # Introduction-to-Artificial-Intelligence-AI- 
 This Course is provided by IBM on Coursera   
-**Instructor:**[Rav Ahuja](https://www.coursera.org/instructor/ravahuja)
+**Instructor:**[Rav Ahuja](https://www.coursera.org/instructor/ravahuja)  
 This course provides a beginner-friendly overview of AI concepts, applications, and ethical considerations, and how it's used in everyday life.
 ____________________________________________________________________________________________________  
 # Reference  
