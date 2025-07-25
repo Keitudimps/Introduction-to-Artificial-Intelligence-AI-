@@ -6,7 +6,7 @@ ________________________________________________________________________________
 # Fundamentals of AI  
 * AI is cloning human intelligence through computer systems.  
 * It uses algorithms and data in order to perform tasks that normmaly need human intelligance. E.g. reason and problem solving.  
-  **It aims to extend human capabilities and is increasingly integrated into different industries. **  
+  **It aims to extend human capabilities and is increasingly integrated into different industries.**  
 
 **Types of AI**
 * Weak AI (narrow AI) - This type of AI can only do one specific job, like helping you with directions or suggesting movies.  
