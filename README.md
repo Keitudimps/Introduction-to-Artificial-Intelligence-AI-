@@ -4,7 +4,7 @@ This Course is provided by IBM on Coursera
 This course provides a beginner-friendly overview of AI concepts, applications, and ethical considerations, and how it's used in everyday life.
 ____________________________________________________________________________________________________  
 # Fundamentals of AI  
-* AI is cloning of human intelligence through computer systems.  
+* AI is cloning human intelligence through computer systems.  
 * It uses algorithms and data in order to perform tasks that normmaly need human intelligance. E.g. reason and problem solving.
   **It aims to extend human capabilities and is increasingly integrated into different industries. **  
 
