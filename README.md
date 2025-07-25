@@ -4,6 +4,20 @@ This Course is provided by IBM on Coursera
 This course provides a beginner-friendly overview of AI concepts, applications, and ethical considerations, and how it's used in everyday life.
 ____________________________________________________________________________________________________  
 # Fundamentals of AI  
+* AI is cloning of human intelligence through computer systems.  
+* It uses algorithms and data in order to perform tasks that normmaly need human intelligance. E.g. reason and problem solving.
+  **It aims to extend human capabilities and is increasingly integrated into different industries. **  
+
+**Types of AI**
+* Weak AI (narrow AI) - This type of AI can only do one specific job, like helping you with directions or suggesting movies.  
+* Strong AI (generalized AI) - This AI can do many different things and learn new skills on its own, like a human.   
+* Super AI (conscious AI) - This is an idea for the future. It would think, feel, and understand like a human, but it doesn’t exist yet.
+
+**Different types of intelligence**
+* Human intelligence - is what we are born with. It helps us think, solve problems, and make choices.  
+* Artificial intelligence - is when machines are doing tasks that usually need human thinking, like understanding data or making decisions on their own.    
+* Augmented intelligence - when humans and AI work together, to enhance each other's efforts when completing tasks.  
+  
 ____________________________________________________________________________________________________  
 # Techniques of AI  
 ____________________________________________________________________________________________________  
