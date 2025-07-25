@@ -5,7 +5,7 @@ This course provides a beginner-friendly overview of AI concepts, applications, 
 ____________________________________________________________________________________________________  
 # Fundamentals of AI  
 * AI is cloning human intelligence through computer systems.  
-* It uses algorithms and data in order to perform tasks that normmaly need human intelligance. E.g. reason and problem solving.
+* It uses algorithms and data in order to perform tasks that normmaly need human intelligance. E.g. reason and problem solving.  
   **It aims to extend human capabilities and is increasingly integrated into different industries. **  
 
 **Types of AI**
