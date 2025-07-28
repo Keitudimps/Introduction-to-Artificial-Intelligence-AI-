@@ -17,6 +17,11 @@ ________________________________________________________________________________
 * Human intelligence - is what we are born with. It helps us think, solve problems, and make choices.  
 * Artificial intelligence - is when machines are doing tasks that usually need human thinking, like understanding data or making decisions on their own.    
 * Augmented intelligence - when humans and AI work together, to enhance each other's efforts when completing tasks.  
+
+  **Generative AI**  
+ Creates new content from scartch: text, Images, music and videos.  
+Does not rely on predefined rules and patterns , it uses deep learning techniques and relies on vast data sets to generate new ideas.  
+  
   
 ____________________________________________________________________________________________________  
 # Techniques of AI  
