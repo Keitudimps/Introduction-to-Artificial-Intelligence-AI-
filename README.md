@@ -14,9 +14,10 @@ It learns in different ways:
 - **Reinforcement Learning** – learns by trying things and getting feedback
 
 ### Types of AI
-- **Weak (Narrow) AI**: Good at one task (e.g., voice assistants)  
+- **Weak (Narrow) AI**: Good at one task (e.g., voice assistants)
+(language translators, virtual assistants, AI-powered web searches, recommendation engines, and intelligent spam filters)
 - **Strong (General) AI**: Can handle many different tasks like a human  
-- **Super AI**: A future idea—AI that is smarter than humans in every way  
+- **Super AI (Conscious) **: A future idea—AI that is smarter than humans in every way  
 
 ---
 
